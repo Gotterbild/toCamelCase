@@ -1,0 +1,23 @@
+{
+  "name": "gtb.tocamelcase",
+  "version": "1.0.0",
+  "description": "Transform string to camelCase",
+  "main": "toCamelCase.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gotterbild/toCamelCase.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "string",
+    "camelCase",
+    "gtb"
+  ],
+  "author": "Pavel Dolgov <gotterbild23@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gotterbild/toCamelCase/issues"
+  },
+  "homepage": "https://github.com/Gotterbild/toCamelCase#readme"
+}
